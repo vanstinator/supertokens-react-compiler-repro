@@ -26,7 +26,7 @@
       "expo-router"
     ],
     "experiments": {
-      "reactCompiler": false,
+      "reactCompiler": true,
       "typedRoutes": true
     }
   }
